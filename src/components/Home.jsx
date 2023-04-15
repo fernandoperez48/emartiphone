@@ -35,7 +35,7 @@ const Home = () => {
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="/assets/images/home/img1.jpg" class="d-block w-100" alt="IPhone" height="500px"/>
+            <img src="/assets/images/home/img1.jpeg" class="d-block w-100" alt="IPhone" height="500px"/>
           </div>
           <div class="carousel-item">
             <img src="/assets/images/home/img2.jpg" class="d-block w-100" alt="IPhone" height="500px"/>
